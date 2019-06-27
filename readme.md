@@ -6,6 +6,8 @@ Create a file called `style.css` in the root directory.
 
 You only need to work on the "About Me" page. You can reference the included `WendyBite_AboutMe.png` file for design.
 
+Note that you will need CSS 'float' to make this layout look as it's pictured!
+
 ### CSS Validation
 
 She knows a thing or two about web design, so be sure your HTML and CSS validate.
